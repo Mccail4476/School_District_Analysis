@@ -3,7 +3,7 @@
 *Overview of the school district analysis:* 
 The purpose of this updated analysis is to show how omitting data can affect downstream data & final output. It's important to consider how to handle invalid data as datasets tend to refer to one another, which can lead to errors down the road. By removing the Thomas High School 9th grade results, we can see that the dataset changes. 
 
-*Results*
+**Results**
 
 **How is the district summary affected?**
 
@@ -97,5 +97,6 @@ Since Thomas High School results are in the Medium (1000-2000) school size range
 
 Since Thomas High School is classified as a Charter school type, the charter row should be the only one affected. Same trend applies to this case as well, % Passing of math and reading & % overall passing went up with the omission of 9th grader data from Thomas High.
 
-*Summary*
+**Summary**
+
 Four apparent changes in the updated school district analysis is that the ranking of Thomas High School went from 8th place in the district to 2nd place using "% Overall passing" as the criteria. Another two changes is that the % passing of math and % passing of reading has went up by a considerable amount. The final change is that the overall % passing has gone up for Thomas high School students. These trends were discovered in the results portion of this page. 
